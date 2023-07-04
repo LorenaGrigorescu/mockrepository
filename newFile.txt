@@ -4,3 +4,5 @@ Am lucrat in terminal
      <b>Earth's Moon</b><br>
      Headquarters
  </p>
+
+Am deschis fisierul cu editorul vim si l-am modificat din nou :)
